@@ -1,4 +1,4 @@
-# openimif (Open-soruced image identifer)
+# openimif (Open-sourced image identifer)
 Open-sourced tool that uses opencv and tensorflow to 'learn' and identify stuff from images
 
 ![digit extraction](http://i.imgur.com/SQ3HECb.png)
